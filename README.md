@@ -67,7 +67,11 @@ Edit `.env` and set `GEMINI_API_KEY`:
 ```ini
 GEMINI_API_KEY=your_actual_api_key_here
 ```
+## Developer
 
+Developed and maintained by **Drona Madhuri Dadi**
+
+For suggestions, improvements, or collaboration, feel free to connect through GitHub.
 ### 4. Running the App
 Run the Streamlit application:
 ```bash
